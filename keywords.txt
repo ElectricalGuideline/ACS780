@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For ACS780
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ACS780	KEYWORD1
+ACS780_type	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+calibrate	KEYWORD2
+setSensitivity	KEYWORD2
+getCurrentDC	KEYWORD2
+getCurrentAC	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ACS780LLRTR_050B    LITERAL1
+ACS780LLRTR_050U    LITERAL1
+ACS780LLRTR_100B    LITERAL1
+ACS780LLRTR_100U    LITERAL1
+ACS780KLRTR_150B    LITERAL1
+ACS780KLRTR_150U    LITERAL1
+
